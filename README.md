@@ -94,7 +94,7 @@ http://localhost:5173/personal-portfolio/
 ## 🌍 Live Demo
 
 **GitHub Pages URL:**  
-https://sofialatina.github.io/personal-portfolio/](https://sofialatina.github.io/personal_portfolio/)
+https://sofialatina.github.io/personal_portfolio/
 
 **Demo Recording:**  
 https://drive.google.com/drive/folders/14DQdGZdPev5TTmZzt11Vl6DbfhwG4hhv?usp=sharing
